@@ -14,7 +14,7 @@ from datetime import datetime
 # --- 設定 ---
 CLICK_WAIT_RANGE = (0.25, 1.0)
 CLICK_PROBABILITY_RANGE = (0.7, 1.0)
-CLICK_LOOP_BASE = 2000
+CLICK_LOOP_BASE = 1000
 MAX_THREADS = 5
 CHROMEDRIVER_PATH = "C:/Users/gnzos/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"
 TIMEOUT_THRESHOLD = 60
